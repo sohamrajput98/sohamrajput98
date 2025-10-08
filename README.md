@@ -46,7 +46,7 @@
 
 <h2 align="center">My Contribution Snake</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sohamrajput98/sohamrajput98/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/sohamrajput98/sohamrajput98/output/snake.svg" alt="Contribution Snake" />
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent-separator.png" alt="divider"/></p>
