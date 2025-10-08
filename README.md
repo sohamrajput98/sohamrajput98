@@ -33,8 +33,9 @@
 <h2 align="center">My Contribution Dashboard</h2>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=sohamrajput98&theme=radical&hide_border=true&ring=C084FC&fire=F472B6&currStreakNum=EDE9FE&sideNums=94A3B8&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=94A3B8&background=120E1C" width="95%" alt="Soham Rajput's GitHub Streak" />
+ <a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sohamrajput98&hide_border=true&ring=C084FC&fire=F472B6&currStreakNum=EDE9FE&sideNums=94A3B8&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=94A3B8&background=120E1C" alt="Soham Rajput's GitHub Streak" />
+</a>
   </a>
 </p>
 
