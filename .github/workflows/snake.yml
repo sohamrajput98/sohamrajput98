@@ -3,19 +3,17 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *" # Runs every day at midnight UTC
-  workflow_dispatch: # Allows manual runs
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout the repository
+      # 1️⃣ Checkout repository
       - uses: actions/checkout@v3
-        with:
-          persist-credentials: true
 
-      # 2️⃣ Ensure output directory exists
+      # 2️⃣ Ensure dist directory exists
       - name: Create dist directory
         run: mkdir -p dist
 
@@ -31,13 +29,16 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 4️⃣ Publish generated files to 'output' branch
-      - name: Publish to GitHub Pages (output branch)
+      # 4️⃣ Push to 'output' branch
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
-          force_orphan: true       # Creates the branch if it doesn't exist
-          enable_commit_author: true
+          target_branch: output       # branch to push files to
+          build_dir: dist             # directory to push
+          keep_history: false         # replace branch history
+          allow_empty_commit: true    # allows first commit if branch missing
+          committer: "GitHub Actions <actions@github.com>"
+          author: "GitHub Actions <actions@github.com>"
+          commit_message: "Update snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
