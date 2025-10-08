@@ -12,8 +12,8 @@
 
 <p align="center">
   <a href="https://github.com/sohamrajput98" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0814" alt="GitHub"/></a>&nbsp;
-  <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0814" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:YOUR_EMAIL_ADDRESS" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Email-C084FC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0814" alt="Email" /></a>&nbsp;
+  <a href="www.linkedin.com/in/sohamrajput98" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0814" alt="LinkedIn" /></a>&nbsp;
+  <a href="sohamrw098@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Email-C084FC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0814" alt="Email" /></a>&nbsp;
   <br>
   <img src="https://komarev.com/ghpvc/?username=sohamrajput98&label=Profile%20Views&color=6D28D9&style=for-the-badge" alt="Profile views" />
 </p>
@@ -83,12 +83,12 @@
         <img src="https://img.shields.io/badge/Docker-F472B6?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&nbsp;
       </p>
       <p>
-        <a href="YOUR_PROJECT_REPO_URL"><img src="https://img.shields.io/badge/Source_Code-0B0814?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>&nbsp;
-        <a href="YOUR_PROJECT_LIVE_DEMO_URL"><img src="https://img.shields.io/badge/Live_Demo-6D28D9?style=for-the-badge&logo=Vercel&logoColor=white" alt="Live Demo"/></a>
+        <a href="https://github.com/sohamrajput98/AlgorithmicEngine"><img src="https://img.shields.io/badge/Source_Code-0B0814?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>&nbsp;
+        <!-- <a href="YOUR_PROJECT_LIVE_DEMO_URL"><img src="https://img.shields.io/badge/Live_Demo-6D28D9?style=for-the-badge&logo=Vercel&logoColor=white" alt="Live Demo"/></a> -->
       </p>
     </td>
     <td width="40%" align="center">
-      <a href="YOUR_PROJECT_LIVE_DEMO_URL"><img src="https://via.placeholder.com/400x250/6D28D9/EDE9FE?text=Algorithmic+Engine" alt="Project Demo"/></a>
+      <!-- <a href="YOUR_PROJECT_LIVE_DEMO_URL"><img src="https://via.placeholder.com/400x250/6D28D9/EDE9FE?text=Algorithmic+Engine" alt="Project Demo"/></a> -->
     </td>
   </tr>
 </table>
