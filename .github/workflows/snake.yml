@@ -1,39 +1,30 @@
 
-
-name: Generate Optimized and Themed Snake Animation
+name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 0 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Grant permission to write to the repository
     steps:
-     
-      - uses: actions/checkout@v3
-
-    
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - name: Generate Snake Animation
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: sohamrajput98
-        
-          gif_out_path: dist/github-contribution-grid-snake.gif?palette=github-dark&s=2
-          
-        
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          # Here are the "Royal Void" theme colors applied directly
+          color_snake: "#6D28D9"
+          color_dots: "#C084FC,#AC7AEF,#8E57E5,#6D28D9,#4E19C8"
+          # The output file will be named snake.svg
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=6D28D9&color_dots=C084FC,AC7AEF,8E57E5,6D28D9,4E19C8
-
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-     
-      - uses: crazy-max/ghaction-github-pages@v4
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+      - name: Push Snake Animation
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
