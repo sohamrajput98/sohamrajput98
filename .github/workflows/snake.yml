@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight UTC
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -12,12 +12,28 @@ jobs:
     steps:
       # 1️⃣ Checkout repository
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # fetch full history to allow branch operations
 
-      # 2️⃣ Ensure dist directory exists
+      # 2️⃣ Setup Git user & ensure output branch exists
+      - name: Setup Git and Checkout Output Branch
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          # Try to checkout output branch, create orphan if missing
+          git fetch origin output || echo "output branch not found"
+          git checkout output || git checkout --orphan output
+          git reset --hard
+
+      # 3️⃣ Clean dist folder
+      - name: Clean dist folder
+        run: rm -rf dist/*
+
+      # 4️⃣ Ensure dist directory exists
       - name: Create dist directory
         run: mkdir -p dist
 
-      # 3️⃣ Generate contribution snake (light + dark)
+      # 5️⃣ Generate contribution snake (light + dark)
       - name: Generate GitHub Snake
         uses: Platane/snk@v3
         id: snake-gif
@@ -29,14 +45,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 4️⃣ Push to 'output' branch
+      # 6️⃣ Push to 'output' branch
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output       # branch to push files to
-          build_dir: dist             # directory to push
-          keep_history: false         # replace branch history
-          allow_empty_commit: true    # allows first commit if branch missing
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+          allow_empty_commit: true
           committer: "GitHub Actions <actions@github.com>"
           author: "GitHub Actions <actions@github.com>"
           commit_message: "Update snake animation"
