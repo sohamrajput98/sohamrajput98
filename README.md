@@ -12,8 +12,8 @@
 
 <p align="center">
   <a href="https://github.com/sohamrajput98" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0814" alt="GitHub"/></a>&nbsp;
-  <a href="www.linkedin.com/in/sohamrajput98" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0814" alt="LinkedIn" /></a>&nbsp;
-  <a href="sohamrw098@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Email-C084FC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0814" alt="Email" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/sohamrajput98" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0814" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:sohamrw098@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Email-C084FC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0814" alt="Email" /></a>&nbsp;
   <br>
   <img src="https://komarev.com/ghpvc/?username=sohamrajput98&label=Profile%20Views&color=6D28D9&style=for-the-badge" alt="Profile views" />
 </p>
@@ -28,18 +28,25 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamrajput98&layout=compact&hide_border=true&title_color=6D28D9&text_color=EDE9FE&bg_color=120E1C" alt="Soham Rajput's Top Languages" />
   </a>
-  <br>
-  <a href="https://github-readme-streak-stats.herokuapp.com">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=sohamrajput98&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<h2 align="center">My Contribution Dashboard</h2>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=sohamrajput98&theme=radical&hide_border=true&ring=C084FC&fire=F472B6&currStreakNum=EDE9FE&sideNums=94A3B8&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=94A3B8&background=120E1C" width="95%" alt="Soham Rajput's GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamrajput98&bg_color=120E1C&color=EDE9FE&line=C084FC&point=F472B6&area=true&hide_border=true" alt="Soham Rajput's GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamrajput98&bg_color=120E1C&color=EDE9FE&line=C084FC&point=F472B6&area=true&hide_border=true" width="95%" alt="Soham Rajput's GitHub Activity Graph" />
   </a>
-  <br>
-  <img src="https://raw.githubusercontent.com/sohamrajput98/sohamrajput98/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+<h2 align="center">My Contribution Snake</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sohamrajput98/sohamrajput98/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent-separator.png" alt="divider"/></p>
@@ -71,7 +78,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent-separator.png" alt="divider"/></p>
 
 <h2 align="center">Featured Projects & Current Focus</h2>
-
 <table width="100%">
   <tr>
     <td width="60%" valign="top">
@@ -84,15 +90,12 @@
       </p>
       <p>
         <a href="https://github.com/sohamrajput98/AlgorithmicEngine"><img src="https://img.shields.io/badge/Source_Code-0B0814?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>&nbsp;
-        <!-- <a href="YOUR_PROJECT_LIVE_DEMO_URL"><img src="https://img.shields.io/badge/Live_Demo-6D28D9?style=for-the-badge&logo=Vercel&logoColor=white" alt="Live Demo"/></a> -->
-      </p>
+        </p>
     </td>
     <td width="40%" align="center">
-      <!-- <a href="YOUR_PROJECT_LIVE_DEMO_URL"><img src="https://via.placeholder.com/400x250/6D28D9/EDE9FE?text=Algorithmic+Engine" alt="Project Demo"/></a> -->
-    </td>
+      </td>
   </tr>
 </table>
-
 <p align="center">
   🌱 <strong>Currently Learning / Building:</strong> Exploring advanced concepts in distributed systems and real-time data processing to enhance the Algorithmic Engine.
 </p>
