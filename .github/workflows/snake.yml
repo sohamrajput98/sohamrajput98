@@ -1,3 +1,4 @@
+# FINAL snake.yml - Dark Background Boxes & Colored Snake
 
 name: Generate Contribution Snake
 
@@ -10,21 +11,25 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Grant permission to write to the repository
+      contents: write # Grants permission to write to the repository
     steps:
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: sohamrajput98
-          # Here are the "Royal Void" theme colors applied directly
-          color_snake: "#6D28D9"
-          color_dots: "#C084FC,#AC7AEF,#8E57E5,#6D28D9,#4E19C8"
-          # The output file will be named snake.svg
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+          
+          # 🐍 The snake itself is now your vibrant "Royal Void" purple
+          color_snake: "#6D28D9" 
+          
+          # The contribution dots it eats are your lilac and pink accent colors
+          color_dots: "#C084FC,#AC7AEF,#8E57E5,#F472B6"
+          
+          # 🔲 This line generates a single file named snake.svg
+          # AND ensures the background grid/boxes are dark
+          outputs: dist/snake.svg?palette=github-dark
+
       - name: Push Snake Animation
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
