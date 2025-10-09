@@ -21,14 +21,30 @@
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent-separator.png" alt="divider"/></p>
 
 <h2 align="center">My GitHub Vitals</h2>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=sohamrajput98&show_icons=true&count_private=true&hide_border=true&title_color=6D28D9&icon_color=C084FC&text_color=EDE9FE&bg_color=120E1C" alt="Soham Rajput's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamrajput98&layout=compact&hide_border=true&title_color=6D28D9&text_color=EDE9FE&bg_color=120E1C" alt="Soham Rajput's Top Languages" />
-  </a>
-</p>
+
+<table align="center">
+  <tr valign="top">
+    <td align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=sohamrajput98&show_icons=true&count_private=true&hide_border=true&title_color=6D28D9&icon_color=C084FC&text_color=EDE9FE&bg_color=120E1C" alt="Soham Rajput's GitHub Stats" />
+      </a>
+    </td>
+
+    <td align="center" width="5" bgcolor="#6D28D9">
+      <img src="https://via.placeholder.com/3x195/6D28D9/6D28D9.png" width="3" height="195" alt="divider" />
+    </td>
+
+    <td align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamrajput98&layout=compact&hide_border=true&title_color=6D28D9&text_color=EDE9FE&bg_color=120E1C" alt="Soham Rajput's Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 <h2 align="center">My Contribution Dashboard</h2>
 
@@ -107,5 +123,5 @@
 </blockquote>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&gradient=6D28D9,C084FC,F472B6&height=120&section=footer&text=Made%20with%20❤️%20by%20Soham%20Rajput&fontColor=EDE9FE" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&gradient=6D28D9,C084FC,F472B6&height=80&section=footer&text=Made%20with%20❤️%20by%20Soham%20Rajput&fontColor=EDE9FE" alt="Footer Banner"/>
 </p>
