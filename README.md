@@ -111,5 +111,5 @@
 </blockquote>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&gradient=6D28D9,C084FC,F472B6&height=80&section=footer&text=Made%20with%20❤️%20by%20Soham%20Rajput&fontColor=EDE9FE" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&gradient=6D28D9,C084FC,F472B6&height=120&section=footer&text=Made%20with%20❤️%20by%20Soham%20Rajput&fontColor=EDE9FE&fontSize=40" alt="Footer Banner"/>
 </p>
