@@ -87,14 +87,17 @@
     <td width="60%" valign="top">
       <h3>Algorithmic Engine</h3>
       <p>A high-performance engine for executing and back-testing complex trading algorithms. Built with a focus on speed, reliability, and modularity to allow for easy integration of new strategies.</p>
+      
       <p>
-        <img src="https://img.shields.io/badge/Java-6D28D9?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>&nbsp;
-        <img src="https://img.shields.io/badge/Spring_Boot-C084FC?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>&nbsp;
-        <img src="https://img.shields.io/badge/Docker-F472B6?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&nbsp;
+        <img src="https://img.shields.io/badge/FastAPI-6D28D9?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>&nbsp;
+        <img src="https://img.shields.io/badge/SQLAlchemy-C084FC?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>&nbsp;
+        <img src="https://img.shields.io/badge/OAuth2-F472B6?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth2"/>&nbsp;
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>&nbsp;
       </p>
-      <p>
-        <a href="https://github.com/sohamrajput98/AlgorithmicEngine"><img src="https://img.shields.io/badge/Source_Code-0B0814?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>&nbsp;
-        </p>
+      
+      <a href="https://github.com/sohamrajput98/AlgorithmicEngine" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/View Source Code-0B0814?style=for-the-badge&logo=github&logoColor=white&padding=10" alt="Source Code" width="100%"/>
+      </a>
     </td>
     <td width="40%" align="center">
       </td>
