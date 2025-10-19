@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  I'm a dedicated Software Developer with a passion for creating elegant solutions to complex problems. My expertise lies in back-end systems and cloud architecture, and I thrive in environments where I can continuously learn, innovate, and build amazing things.
+  I'm a dedicated Software Developer with a passion for creating elegant solutions to complex problems. My expertise lies in back-end systems and cloud architecture, and I thrive in environments where I can continuously learn, innovate,  and build amazing things.
 </p>
 
 <p align="center">
