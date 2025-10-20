@@ -25,15 +25,21 @@
 <h2 align="center">My GitHub Vitals</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohamrajput98&show_icons=true&count_private=true&hide_border=true&title_color=6D28D9&icon_color=C084FC&text_color=EDE9FE&bg_color=120E1C" alt="GitHub Stats" height="195" />
-  <img src="https://raw.githubusercontent.com/sohamrajput98/sohamrajput98/main/components/divider.svg" alt="divider" height="195" style="vertical-align:middle;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamrajput98&layout=compact&hide_border=true&title_color=6D28D9&text_color=EDE9FE&bg_color=120E1C" alt="Top Languages" height="195" />
+  <span>
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=sohamrajput98&show_icons=true&count_private=true&hide_border=true&title_color=6D28D9&icon_color=C084FC&text_color=EDE9FE&bg_color=120E1C&line_height=28.3" 
+      alt="GitHub Stats" 
+      width="410"
+      style="display:inline-block; vertical-align:middle;"/>
+  </span>
+  <span>
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamrajput98&layout=compact&langs_count=6&hide_border=true&title_color=6D28D9&text_color=EDE9FE&bg_color=120E1C&card_width=350" 
+      alt="Top Languages" 
+      width="410"
+      style="display:inline-block; vertical-align:middle;"/>
+  </span>
 </p>
-
-
-
-
-
 
 
 
@@ -59,28 +65,69 @@
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent-separator.png" alt="divider"/></p>
 
 <h2 align="center">My Tech Arsenal</h2>
+
 <table width="100%">
   <tr>
-    <td align="center" valign="top" width="33%">
+    <!-- Frontend -->
+    <td align="center" valign="top" width="25%">
       <h4>Frontend</h4>
       <p align="center">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,figma&perline=4&theme=dark" /></a>
+        <span style="display:inline-block; margin:5px;">
+          <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma&perline=4&theme=dark" width="50" alt="Frontend Skills"/>
+        </span>
+        <!-- Custom badges -->
+        <span style="display:inline-block; margin:5px;">
+          <img src="https://img.shields.io/badge/Crow-1F2937?style=for-the-badge&logoColor=EDE9FE&labelColor=6D28D9" width="50" alt="Crow"/>
+        </span>
+        <span style="display:inline-block; margin:5px;">
+          <img src="https://img.shields.io/badge/Pistache-1F2937?style=for-the-badge&logoColor=EDE9FE&labelColor=C084FC" width="50" alt="Pistache"/>
+        </span>
       </p>
     </td>
-    <td align="center" valign="top" width="33%">
+    <!-- Backend -->
+    <td align="center" valign="top" width="25%">
       <h4>Backend</h4>
       <p align="center">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,py,flask,go&perline=4&theme=dark" /></a>
+        <span style="display:inline-block; margin:5px;">
+          <img src="https://skillicons.dev/icons?i=python,java,cpp,c,fastapi,django,flask&perline=4&theme=dark" width="50" alt="Backend Skills"/>
+        </span>
+        <!-- Custom badges -->
+        <span style="display:inline-block; margin:5px;">
+          <img src="https://img.shields.io/badge/OAuth2-1F2937?style=for-the-badge&logoColor=EDE9FE&labelColor=F472B6" width="50" alt="OAuth2"/>
+        </span>
+        <span style="display:inline-block; margin:5px;">
+          <img src="https://img.shields.io/badge/JWT-1F2937?style=for-the-badge&logoColor=EDE9FE&labelColor=6D28D9" width="50" alt="JWT"/>
+        </span>
+        <span style="display:inline-block; margin:5px;">
+          <img src="https://img.shields.io/badge/CI--CD-1F2937?style=for-the-badge&logoColor=EDE9FE&labelColor=C084FC" width="50" alt="CI/CD"/>
+        </span>
       </p>
     </td>
-    <td align="center" valign="top" width="33%">
+    <!-- Database & DevOps -->
+    <td align="center" valign="top" width="25%">
       <h4>Database & DevOps</h4>
       <p align="center">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,aws,gcp,git&perline=4&theme=dark" /></a>
+        <span style="display:inline-block; margin:5px;">
+          <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,docker,postman,git,github&perline=4&theme=dark" width="50" alt="Database & DevOps"/>
+        </span>
+        <!-- Custom badges -->
+        <span style="display:inline-block; margin:5px;">
+          <img src="https://img.shields.io/badge/GitHubActions-1F2937?style=for-the-badge&logoColor=EDE9FE&labelColor=F472B6" width="50" alt="GitHub Actions"/>
+        </span>
+      </p>
+    </td>
+    <!-- Tools & Platforms -->
+    <td align="center" valign="top" width="25%">
+      <h4>Tools & Platforms</h4>
+      <p align="center">
+        <span style="display:inline-block; margin:5px;">
+          <img src="https://skillicons.dev/icons?i=postman,docker,aws,gcp,figma&perline=4&theme=dark" width="50" alt="Tools & Platforms"/>
+        </span>
       </p>
     </td>
   </tr>
 </table>
+
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent-separator.png" alt="divider"/></p>
 
