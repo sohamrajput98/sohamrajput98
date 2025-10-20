@@ -20,13 +20,16 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent-separator.png" alt="divider"/></p>
 
+
+
 <h2 align="center">My GitHub Vitals</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohamrajput98&show_icons=true&count_private=true&hide_border=true&title_color=6D28D9&icon_color=C084FC&text_color=EDE9FE&bg_color=120E1C" height="195" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/sohamrajput98/sohamrajput98/main/components/divider.svg" height="195" width="4" alt="divider" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamrajput98&layout=compact&hide_border=true&title_color=6D28D9&text_color=EDE9FE&bg_color=120E1C" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sohamrajput98&show_icons=true&count_private=true&hide_border=true&title_color=6D28D9&icon_color=C084FC&text_color=EDE9FE&bg_color=120E1C" alt="GitHub Stats" height="195" />
+  <img src="https://raw.githubusercontent.com/sohamrajput98/sohamrajput98/main/components/divider.svg" alt="divider" height="195" style="vertical-align:middle;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamrajput98&layout=compact&hide_border=true&title_color=6D28D9&text_color=EDE9FE&bg_color=120E1C" alt="Top Languages" height="195" />
 </p>
+
 
 
 
