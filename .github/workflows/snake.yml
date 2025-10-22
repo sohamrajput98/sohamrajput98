@@ -12,20 +12,21 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write # Grants permission to write to the repository
+
     steps:
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: sohamrajput98
 
-          # Snake and heatmap colors
+          # Snake and dots colors
           color_snake: "#4FC3F7"
           color_dots: "#81D4FA,#4FC3F7,#29B6F6,#0288D1"
 
-          # Crystal Blue background for boxes
+          # Background grid color (dark)
           color_bg: "#1E2A38"
 
-          # Make sure to not use any palette
+          # Disable palette
           outputs: dist/snake.svg
 
       - name: Push Snake Animation
