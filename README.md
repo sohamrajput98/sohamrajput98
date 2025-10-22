@@ -64,69 +64,56 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent-separator.png" alt="divider"/></p>
 
-<h2 align="center">My Tech Arsenal</h2>
+<h2 align="center">💻 My Tech Arsenal</h2>
 
-<table width="100%">
+<table align="center" width="100%" style="table-layout:fixed; border-collapse:collapse;">
   <tr>
     <!-- Frontend -->
-    <td align="center" valign="top" width="25%">
-      <h4>Frontend</h4>
-      <p align="center">
-        <span style="display:inline-block; margin:5px;">
-          <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma&perline=4&theme=dark" width="50" alt="Frontend Skills"/>
-        </span>
-        <!-- Custom badges -->
-        <span style="display:inline-block; margin:5px;">
-          <img src="https://img.shields.io/badge/Crow-1F2937?style=for-the-badge&logoColor=EDE9FE&labelColor=6D28D9" width="50" alt="Crow"/>
-        </span>
-        <span style="display:inline-block; margin:5px;">
-          <img src="https://img.shields.io/badge/Pistache-1F2937?style=for-the-badge&logoColor=EDE9FE&labelColor=C084FC" width="50" alt="Pistache"/>
-        </span>
-      </p>
+    <td align="center" valign="top" width="25%" style="padding:0;">
+      <h4>🎨 Frontend</h4>
+      <a href="https://skillicons.dev">
+        <img 
+          src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,materialui,vite&perline=4&theme=dark" 
+          width="100%" 
+        />
+      </a>
     </td>
     <!-- Backend -->
-    <td align="center" valign="top" width="25%">
-      <h4>Backend</h4>
-      <p align="center">
-        <span style="display:inline-block; margin:5px;">
-          <img src="https://skillicons.dev/icons?i=python,java,cpp,c,fastapi,django,flask&perline=4&theme=dark" width="50" alt="Backend Skills"/>
-        </span>
-        <!-- Custom badges -->
-        <span style="display:inline-block; margin:5px;">
-          <img src="https://img.shields.io/badge/OAuth2-1F2937?style=for-the-badge&logoColor=EDE9FE&labelColor=F472B6" width="50" alt="OAuth2"/>
-        </span>
-        <span style="display:inline-block; margin:5px;">
-          <img src="https://img.shields.io/badge/JWT-1F2937?style=for-the-badge&logoColor=EDE9FE&labelColor=6D28D9" width="50" alt="JWT"/>
-        </span>
-        <span style="display:inline-block; margin:5px;">
-          <img src="https://img.shields.io/badge/CI--CD-1F2937?style=for-the-badge&logoColor=EDE9FE&labelColor=C084FC" width="50" alt="CI/CD"/>
-        </span>
-      </p>
+    <td align="center" valign="top" width="25%" style="padding:0;">
+      <h4>⚙️ Backend</h4>
+      <a href="https://skillicons.dev">
+        <img 
+          src="https://skillicons.dev/icons?i=python,java,cpp,c,fastapi,django,flask,nginx,bash,postman&perline=4&theme=dark" 
+          width="100%" 
+        />
+      </a>
     </td>
     <!-- Database & DevOps -->
-    <td align="center" valign="top" width="25%">
-      <h4>Database & DevOps</h4>
-      <p align="center">
-        <span style="display:inline-block; margin:5px;">
-          <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,docker,postman,git,github&perline=4&theme=dark" width="50" alt="Database & DevOps"/>
-        </span>
-        <!-- Custom badges -->
-        <span style="display:inline-block; margin:5px;">
-          <img src="https://img.shields.io/badge/GitHubActions-1F2937?style=for-the-badge&logoColor=EDE9FE&labelColor=F472B6" width="50" alt="GitHub Actions"/>
-        </span>
-      </p>
+    <td align="center" valign="top" width="25%" style="padding:0;">
+      <h4>🗄️ Database & DevOps</h4>
+      <a href="https://skillicons.dev">
+        <img 
+          src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,docker,aws,gcp,git,github&perline=4&theme=dark" 
+          width="100%" 
+        />
+      </a>
     </td>
     <!-- Tools & Platforms -->
-    <td align="center" valign="top" width="25%">
-      <h4>Tools & Platforms</h4>
-      <p align="center">
-        <span style="display:inline-block; margin:5px;">
-          <img src="https://skillicons.dev/icons?i=postman,docker,aws,gcp,figma&perline=4&theme=dark" width="50" alt="Tools & Platforms"/>
-        </span>
-      </p>
+    <td align="center" valign="top" width="25%" style="padding:0;">
+      <h4>🧰 Tools & Platforms</h4>
+      <a href="https://skillicons.dev">
+        <img 
+          src="https://skillicons.dev/icons?i=vscode,linux,firebase,vercel,netlify,npm,yarn,supabase,githubactions&perline=4&theme=dark" 
+          width="100%" 
+        />
+      </a>
     </td>
   </tr>
 </table>
+
+
+
+
 
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent-separator.png" alt="divider"/></p>
