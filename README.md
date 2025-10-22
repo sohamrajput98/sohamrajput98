@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&gradient=0288D1,4FC3F7,B3E5FC&height=250&section=header&text=Soham%20Rajput&fontSize=70&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" alt="Header Banner"/>
-</p>
+  <img src="https://raw.githubusercontent.com/sohamrajput98/sohamrajput98/main/assets/img1.gif" alt="Soham Rajput Logo" width="800"/> 
+  </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sohamrajput98/sohamrajput98/main/assets/img2.svg" alt="Design Element" width="100%"/>
+  </p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -50,16 +54,21 @@
 <h2 align="center">My Contribution Dashboard</h2>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=sohamrajput98&theme=radical&hide_border=true&ring=0288D1&fire=4FC3F7&currStreakNum=B3E5FC&sideNums=B3E5FC&currStreakLabel=B3E5FC&sideLabels=B3E5FC&dates=B3E5FC&background=0A1E2A" width="95%" alt="Soham Rajput's GitHub Streak" />
-  </a>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=sohamrajput98&theme=radical&hide_border=true&ring=0288D1&fire=4FC3F7&currStreakNum=B3E5FC&sideNums=B3E5FC&currStreakLabel=B3E5FC&sideLabels=B3E5FC&dates=B3E5FC&background=0A1E2A" 
+    width="95%" 
+    alt="Soham Rajput's GitHub Streak" 
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamrajput98&bg_color=0A1E2A&color=B3E5FC&line=0288D1&point=4FC3F7&area=true&hide_border=true" width="95%" alt="Soham Rajput's GitHub Activity Graph" />
-  </a>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sohamrajput98&bg_color=0A1E2A&color=B3E5FC&line=0288D1&point=4FC3F7&area=true&hide_border=true" 
+    width="95%" 
+    alt="Soham Rajput's GitHub Activity Graph" 
+  />
 </p>
+
 
 <h2 align="center">My Contribution Snake</h2>
 <p align="center">
