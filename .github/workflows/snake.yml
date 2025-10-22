@@ -1,4 +1,4 @@
-# FINAL snake.yml - Dark Background Boxes & Colored Snake
+# FINAL snake.yml - Crystal Blue Theme Snake & Heatmap
 
 name: Generate Contribution Snake
 
@@ -19,13 +19,13 @@ jobs:
           github_user_name: sohamrajput98
           
           
-          color_snake: "#E084FF" 
+          color_snake: "#4FC3F7" 
+          
+          
+          color_dots: "#81D4FA,#4FC3F7,#29B6F6,#0288D1"
           
          
-          color_dots: "#4FC3F7,#29B6F6,#03A9F4,#0288D1"
-          
-         
-          outputs: dist/snake.svg?palette=dracula
+          outputs: dist/snake.svg
 
       - name: Push Snake Animation
         uses: crazy-max/ghaction-github-pages@v4
