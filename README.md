@@ -1,59 +1,63 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&gradient=6D28D9,C084FC,F472B6&height=250&section=header&text=Soham%20Rajput&fontSize=70&fontColor=EDE9FE&fontAlignY=38&animation=fadeIn" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&gradient=0288D1,4FC3F7,B3E5FC&height=250&section=header&text=Soham%20Rajput&fontSize=70&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" alt="Header Banner"/>
 </p>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=550&lines=Software+Developer+from+Mumbai%2C+India;Building+elegant+solutions+for+the+web;Translating+logic+into+luxury..." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&color=0288D1&center=true&vCenter=true&width=550&lines=Software+Developer+from+Mumbai%2C+India;Building+elegant+solutions+for+the+web;Translating+logic+into+luxury..." alt="Typing SVG" />
+  </a>
 </div>
 
 <p align="center">
-  I'm a dedicated Software Developer with a passion for creating elegant solutions to complex problems. My expertise lies in back-end systems and cloud architecture, and I thrive in environments where I can continuously learn, innovate,  and build amazing things.
+  I'm a dedicated Software Developer with a passion for creating elegant solutions to complex problems. My expertise lies in back-end systems and cloud architecture, and I thrive in environments where I can continuously learn, innovate, and build amazing things.
 </p>
 
 <p align="center">
-  <a href="https://github.com/sohamrajput98" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0814" alt="GitHub"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/sohamrajput98" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0814" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:sohamrw098@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Email-C084FC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0814" alt="Email" /></a>&nbsp;
+  <a href="https://github.com/sohamrajput98" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-0288D1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/sohamrajput98" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-4FC3F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="mailto:sohamrw098@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-B3E5FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;
   <br>
-  <img src="https://komarev.com/ghpvc/?username=sohamrajput98&label=Profile%20Views&color=6D28D9&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sohamrajput98&label=Profile%20Views&color=4FC3F7&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent-separator.png" alt="divider"/></p>
-
-
 
 <h2 align="center">My GitHub Vitals</h2>
 
 <p align="center">
   <span>
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=sohamrajput98&show_icons=true&count_private=true&hide_border=true&title_color=6D28D9&icon_color=C084FC&text_color=EDE9FE&bg_color=120E1C&line_height=28.3" 
+      src="https://github-readme-stats.vercel.app/api?username=sohamrajput98&show_icons=true&count_private=true&hide_border=true&title_color=0288D1&icon_color=4FC3F7&text_color=B3E5FC&bg_color=0A1E2A&line_height=28" 
       alt="GitHub Stats" 
       width="410"
       style="display:inline-block; vertical-align:middle;"/>
   </span>
   <span>
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamrajput98&layout=compact&langs_count=6&hide_border=true&title_color=6D28D9&text_color=EDE9FE&bg_color=120E1C&card_width=350" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamrajput98&layout=compact&langs_count=6&hide_border=true&title_color=0288D1&text_color=B3E5FC&bg_color=0A1E2A&card_width=350" 
       alt="Top Languages" 
       width="410"
       style="display:inline-block; vertical-align:middle;"/>
   </span>
 </p>
 
-
-
 <h2 align="center">My Contribution Dashboard</h2>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=sohamrajput98&theme=radical&hide_border=true&ring=C084FC&fire=F472B6&currStreakNum=EDE9FE&sideNums=94A3B8&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=94A3B8&background=120E1C" width="95%" alt="Soham Rajput's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=sohamrajput98&theme=radical&hide_border=true&ring=0288D1&fire=4FC3F7&currStreakNum=B3E5FC&sideNums=B3E5FC&currStreakLabel=B3E5FC&sideLabels=B3E5FC&dates=B3E5FC&background=0A1E2A" width="95%" alt="Soham Rajput's GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamrajput98&bg_color=120E1C&color=EDE9FE&line=C084FC&point=F472B6&area=true&hide_border=true" width="95%" alt="Soham Rajput's GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamrajput98&bg_color=0A1E2A&color=B3E5FC&line=0288D1&point=4FC3F7&area=true&hide_border=true" width="95%" alt="Soham Rajput's GitHub Activity Graph" />
   </a>
 </p>
 
@@ -66,7 +70,6 @@
   />
 </p>
 
-
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent-separator.png" alt="divider"/></p>
 
 <h2 align="center">💻 My Tech Arsenal</h2>
@@ -78,7 +81,7 @@
       <h4>🎨 Frontend</h4>
       <a href="https://skillicons.dev">
         <img 
-          src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,materialui,vite&perline=4&theme=dark" 
+          src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,materialui,vite,framer&perline=4&theme=dark" 
           width="100%" 
         />
       </a>
@@ -88,7 +91,7 @@
       <h4>⚙️ Backend</h4>
       <a href="https://skillicons.dev">
         <img 
-          src="https://skillicons.dev/icons?i=python,java,cpp,c,fastapi,django,flask,nginx,bash,postman&perline=4&theme=dark" 
+          src="https://skillicons.dev/icons?i=python,java,cpp,c,fastapi,django,flask,nginx,bash,postman,jwt,oauth2&perline=4&theme=dark" 
           width="100%" 
         />
       </a>
@@ -116,11 +119,6 @@
   </tr>
 </table>
 
-
-
-
-
-
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent-separator.png" alt="divider"/></p>
 
 <h2 align="center">Featured Projects & Current Focus</h2>
@@ -132,29 +130,28 @@
         An interactive platform helping students master DSA and core subjects through real-time problem-solving.
       </p> 
       <p>
-        <img src="https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
-        <img src="https://img.shields.io/badge/FastAPI-C084FC?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>&nbsp;
-        <img src="https://img.shields.io/badge/SQLAlchemy-F472B6?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>&nbsp;
-        <img src="https://img.shields.io/badge/OAuth2-61DAFB?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth2"/>&nbsp;
-        <img src="https://img.shields.io/badge/React-C084FC?style=for-the-badge&logo=react&logoColor=white" alt="React"/>&nbsp;
+        <img src="https://img.shields.io/badge/Python-4FC3F7?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
+<img src="https://img.shields.io/badge/FastAPI-4FC3F7?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>&nbsp;
+<img src="https://img.shields.io/badge/SQLAlchemy-9575CD?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>&nbsp;
+<img src="https://img.shields.io/badge/OAuth2-C084FC?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth2"/>&nbsp;
+<img src="https://img.shields.io/badge/React-81D4FA?style=for-the-badge&logo=react&logoColor=white" alt="React"/>&nbsp;
       </p>
          <p align="center">
         <a href="https://github.com/sohamrajput98/AlgorithmicEngine" target="_blank" rel="noreferrer">
-          <img src="https://img.shields.io/badge/View Source Code-0B0814?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+          <img src="https://img.shields.io/badge/View Source Code-0A1E2A?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
         </a>
       </p>
     </td>
     <td width="40%" align="center">
-  <img 
-    src="https://raw.githubusercontent.com/sohamrajput98/sohamrajput98/main/assets/AlgoEngine.gif" 
-    alt="Algorithmic Engine Demo" 
-    width="100%" 
-    style="border-radius: 12px; box-shadow: 0 0 20px rgba(192,132,252,0.3);" 
-  />
-</td>
-
+      <img src="https://raw.githubusercontent.com/sohamrajput98/sohamrajput98/main/assets/AlgoEngine.gif" 
+        alt="Algorithmic Engine Demo" 
+        width="100%" 
+        style="border-radius: 12px; box-shadow: 0 0 20px rgba(79,195,247,0.3);" 
+      />
+    </td>
   </tr>
 </table>
+
 <p align="center">
   🌱 <strong>Currently Learning / Building:</strong> Exploring advanced concepts in distributed systems and real-time data processing to enhance the Algorithmic Engine.
 </p>
@@ -166,5 +163,5 @@
 </blockquote>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&gradient=6D28D9,C084FC,F472B6&height=120&section=footer&text=Made%20with%20❤️%20by%20Soham%20Rajput&fontColor=EDE9FE&fontSize=40" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&gradient=0288D1,4FC3F7,B3E5FC&height=120&section=footer&text=Made%20with%20❤️%20by%20Soham%20Rajput&fontColor=FFFFFF&fontSize=40" alt="Footer Banner"/>
 </p>
