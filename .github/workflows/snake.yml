@@ -15,7 +15,9 @@ jobs:
 
     steps:
       - name: Generate Snake Animation
-        uses: Platane/snk/svg-only@v3
+        # **** THIS LINE HAS BEEN CHANGED ****
+        # Changed from 'Platane/snk/svg-only@v3' to 'Platane/snk@v3'
+        uses: Platane/snk@v3 
         with:
           github_user_name: sohamrajput98
 
@@ -26,7 +28,7 @@ jobs:
           # Background grid color (dark)
           color_bg: "#1E2A38"
 
-          # Disable palette
+          # Outputs the SVG file
           outputs: dist/snake.svg
 
       - name: Push Snake Animation
