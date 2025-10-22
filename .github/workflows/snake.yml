@@ -15,20 +15,21 @@ jobs:
 
     steps:
       - name: Generate Snake Animation
-        # **** KEEP 'svg-only@v3' but change how you pass colors ****
-        uses: Platane/snk/svg-only@v3 
+        # **** CRUCIAL CHANGE HERE: Switching to the full action tag ****
+        # This version (Platane/snk@v3.3.0) supports color_snake, color_dots, color_bg
+        uses: Platane/snk@v3.3.0 
         with:
           github_user_name: sohamrajput98
+
+          # Snake and dots colors - These should now be recognized!
+          color_snake: "#4FC3F7"
+          color_dots: "#81D4FA,#4FC3F7,#29B6F6,#0288D1"
+
+          # Background grid color (dark) - This should now be recognized!
+          color_bg: "#1E2A38"
+
+          # The outputs parameter remains the same
           outputs: dist/snake.svg
-          
-          # **** PASS COLOR ARGUMENTS VIA 'args' ****
-          args: >
-            --color_snake "#4FC3F7"
-            --color_dots "#81D4FA,#4FC3F7,#29B6F6,#0288D1"
-            --color_bg "#1E2A38"
-            
-            # If you previously had '--disable-palette', add it here too if needed
-            # --disable-palette 
 
       - name: Push Snake Animation
         uses: crazy-max/ghaction-github-pages@v4
