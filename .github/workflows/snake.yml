@@ -19,10 +19,10 @@ jobs:
           github_user_name: sohamrajput98
           
           
-          color_snake: "#C084FC" 
+          color_snake: "#E084FF" 
           
          
-          color_dots: "#4CAF50,#66BB6A,#81C784,#A5D6A7"
+          color_dots: "#4FC3F7,#29B6F6,#03A9F4,#0288D1"
           
          
           outputs: dist/snake.svg?palette=dracula
