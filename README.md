@@ -59,8 +59,13 @@
 
 <h2 align="center">My Contribution Snake</h2>
 <p align="center">
- <img src="https://raw.githubusercontent.com/sohamrajput98/sohamrajput98/output/snake.svg" alt="Contribution Snake" />
+  <img 
+    src="https://raw.githubusercontent.com/sohamrajput98/sohamrajput98/output/snake.svg" 
+    alt="Contribution Snake" 
+    style="width: 105%; height: auto; max-width: 1400px;" 
+  />
 </p>
+
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent-separator.png" alt="divider"/></p>
 
@@ -124,7 +129,7 @@
     <td width="60%" valign="top">
       <h2>Algorithmic Engine</h2>
       <p align="justify">
-        A high-performance engine for executing and back-testing complex trading algorithms. Built with a focus on speed, reliability, and modularity to allow for easy integration of new strategies.
+        An interactive platform helping students master DSA and core subjects through real-time problem-solving.
       </p> 
       <p>
         <img src="https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
@@ -140,7 +145,14 @@
       </p>
     </td>
     <td width="40%" align="center">
-      </td>
+  <img 
+    src="https://raw.githubusercontent.com/sohamrajput98/sohamrajput98/main/assets/AlgoEngine.gif" 
+    alt="Algorithmic Engine Demo" 
+    width="100%" 
+    style="border-radius: 12px; box-shadow: 0 0 20px rgba(192,132,252,0.3);" 
+  />
+</td>
+
   </tr>
 </table>
 <p align="center">
