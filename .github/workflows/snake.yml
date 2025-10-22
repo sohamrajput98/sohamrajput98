@@ -22,9 +22,8 @@ jobs:
 
           # **** CRUCIAL CHANGE HERE: Custom colors are now part of the outputs string ****
           outputs: |
-            dist/snake.svg?color_snake=#4FC3F7&color_dots=#81D4FA,#4FC3F7,#29B6F6,#0288D1&color_bg=#1E2A38
-            # You can add other outputs here if needed, e.g., a dark theme version:
-            # dist/snake-dark.svg?palette=github-dark
+            dist/snake.svg?color_snake=#F472B6&color_dots=#81D4FA,#4FC3F7,#29B6F6,#0288D1,#01579B&color_bg=#1E2A38
+            
 
       - name: Push Snake Animation
         uses: crazy-max/ghaction-github-pages@v4 # Changed to v4 as per your initial working push action
