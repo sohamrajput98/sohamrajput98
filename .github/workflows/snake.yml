@@ -19,10 +19,10 @@ jobs:
           github_user_name: sohamrajput98
           
           # 🐍 The snake itself is now your vibrant "Royal Void" purple
-          color_snake: "#6D28D9" 
+          color_snake: "#C084FC" 
           
           # The contribution dots it eats are your lilac and pink accent colors
-          color_dots: "#C084FC,#AC7AEF,#8E57E5,#F472B6"
+          color_dots: "#4CAF50,#66BB6A,#81C784,#A5D6A7"
           
           # 🔲 This line generates a single file named snake.svg
           # AND ensures the background grid/boxes are dark
