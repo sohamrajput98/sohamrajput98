@@ -1,10 +1,26 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sohamrajput98/sohamrajput98/main/assets/img1.gif" alt="Soham Rajput Logo" width="800"/> 
-  </p>
+<table align="center" width="100%" cellspacing="0" cellpadding="0" border="0" style="border:none;">
+  <tr>
+    <td align="center" width="65%" style="border:none; padding:0;">
+      <img 
+        src="https://raw.githubusercontent.com/sohamrajput98/sohamrajput98/main/assets/SohamRajput.gif" 
+        alt="Soham Rajput Logo" 
+        width="100%"
+      />
+    </td>
+    <td align="center" width="35%" style="border:none; padding:0;">
+      <img 
+        src="https://raw.githubusercontent.com/sohamrajput98/sohamrajput98/main/assets/pulse.svg" 
+        alt="Design Element" 
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sohamrajput98/sohamrajput98/main/assets/img2.svg" alt="Design Element" width="100%"/>
-  </p>
+
+
+
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
