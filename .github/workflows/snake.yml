@@ -17,14 +17,15 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: sohamrajput98
-          
-          
-          color_snake: "#4FC3F7" 
-          
-          
+
+          # Snake and heatmap colors
+          color_snake: "#4FC3F7"
           color_dots: "#81D4FA,#4FC3F7,#29B6F6,#0288D1"
-          
-         
+
+          # Crystal Blue background for boxes
+          color_bg: "#1E2A38"
+
+          # Make sure to not use any palette
           outputs: dist/snake.svg
 
       - name: Push Snake Animation
