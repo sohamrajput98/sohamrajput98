@@ -71,9 +71,7 @@
 
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=sohamrajput98&theme=radical&hide_border=true&ring=0288D1&fire=4FC3F7&currStreakNum=B3E5FC&sideNums=B3E5FC&currStreakLabel=B3E5FC&sideLabels=B3E5FC&dates=B3E5FC&background=0A1E2A" width="95%" alt="Soham Rajput's GitHub Streak" />
-  </a>
   </p>
 
 
