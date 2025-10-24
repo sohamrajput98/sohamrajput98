@@ -17,11 +17,6 @@
   </tr>
 </table>
 
-
-
-
-
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&color=0288D1&center=true&vCenter=true&width=550&lines=Software+Developer+from+Mumbai%2C+India;Building+elegant+solutions+for+the+web;Translating+logic+into+luxury..." alt="Typing SVG" />
@@ -47,6 +42,8 @@
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent-separator.png" alt="divider"/></p>
+
+
 
 <h2 align="center">My GitHub Vitals</h2>
 
