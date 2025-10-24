@@ -1,0 +1,41 @@
+
+name: GitHub Metrics
+
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          user: sohamrajput98
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics.svg
+          base: "header"
+          template: "classic"
+          config_display: "block"
+          config_timezone: "Asia/Kolkata"
+          background: "#1E2A38"
+          text_color: "#EDE9FE"
+          accent: "#4FC3F7"
+          border_color: "#4A5568"
+          progress: "#4FC3F7"
+          progress_skill_text: "#EDE9FE"
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_limit: 8
+          plugin_achievements_display: compact
+          plugin_achievements_colors: "#F472B6,#C084FC,#6D28D9,#4FC3F7"
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_colors: "#000000,#81D4FA,#4FC3F7,#29B6F6,#0288D1"
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_max: 8
+          plugin_notable_filter: stars,commits,repositories,followers,issues,pull_requests,reviews,experience
