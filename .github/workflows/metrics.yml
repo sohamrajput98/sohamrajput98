@@ -1,3 +1,5 @@
+# .github/workflows/metrics.yml
+# GitHub Metrics for Soham Rajput - Attempt 2: Using only valid inputs
 
 name: GitHub Metrics
 
@@ -12,30 +14,38 @@ jobs:
       contents: write
 
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest # Ensure this is truly the latest. If you're using a fork, replace 'latest' with its specific tag/commit.
         with:
           user: sohamrajput98
           token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics.svg
-          base: "header"
-          template: "classic"
-          config_display: "block"
+
+          # --- Styling with available inputs ---
+          # Use a dark template/preset. 'base: header' might also help with dark headers.
+          template: "classic" # Use classic, dark, or some other dark theme if available and works
+          base: "header" # Keeps header dark if template allows
+          config_display: "block" # As per your image
           config_timezone: "Asia/Kolkata"
-          background: "#1E2A38"
-          text_color: "#EDE9FE"
-          accent: "#4FC3F7"
-          border_color: "#4A5568"
-          progress: "#4FC3F7"
-          progress_skill_text: "#EDE9FE"
+
+          # --- Plugins ---
+          # Achievements plugin (for trophies like Super Committer, Super Star)
           plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_limit: 8
-          plugin_achievements_display: compact
-          plugin_achievements_colors: "#F472B6,#C084FC,#6D28D9,#4FC3F7"
+          # Note: 'plugin_achievements_colors' is not a valid input,
+          # so trophies will use default theme colors or be based on 'accent' if it existed.
+          # We can't customize them directly with this version.
+          # We'll rely on the overall dark theme to make them fit.
+
+          # Notable plugin (for Commits, Stars, Repositories, etc.)
+          plugin_notable: yes
+          # Note: 'plugin_notable_max' is not a valid input.
+          # We'll rely on the default max or a theme setting.
+          plugin_notable_indepth: yes
+          # filter what to display
+          plugin_notable_filter: stars,commits,repositories,followers,issues,pull_requests,reviews,experience
+
+
+          # Isocalendar plugin (if you want the contribution graph below the stats, similar to your snake)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_isocalendar_colors: "#000000,#81D4FA,#4FC3F7,#29B6F6,#0288D1"
-          plugin_notable: yes
-          plugin_notable_indepth: yes
-          plugin_notable_max: 8
-          plugin_notable_filter: stars,commits,repositories,followers,issues,pull_requests,reviews,experience
+          # Note: 'plugin_isocalendar_colors' is not a valid input for this version.
+          # It will use theme's default colors for the heatmap.
