@@ -63,7 +63,7 @@
 <br>
 
 <p align="center" style="margin:8px 0;">
-  <img src="components/divider.svg" alt="divider" style="width:60%; height:20px;" />
+  <img src="components/divider.svg" alt="divider" style="width:60%; height:25px;" />
 </p>
 
 
@@ -104,6 +104,12 @@
   />
 </p>
 
+<br>
+<br>
+
+<p align="center" style="margin:8px 0;">
+  <img src="components/divider.svg" alt="divider" style="width:60%; height:25px;" />
+</p>
 
 <h2 align="center">My Contribution Snake</h2>
 <p align="center">
@@ -114,7 +120,11 @@
   />
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent-separator.png" alt="divider"/></p>
+<br>
+<br>
+<p align="center" style="margin:8px 0;">
+  <img src="components/divider.svg" alt="divider" style="width:60%; height:20px;" />
+</p>
 
 <h2 align="center">💻 My Tech Arsenal</h2>
 
@@ -163,7 +173,11 @@
   </tr>
 </table>
 
-<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent-separator.png" alt="divider"/></p>
+<br>
+
+<p align="center" style="margin:8px 0;">
+  <img src="components/divider.svg" alt="divider" style="width:60%; height:25px;" />
+</p>
 
 <h2 align="center">Featured Projects & Current Focus</h2>
 <table width="100%">
@@ -195,6 +209,12 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+<p align="center" style="margin:8px 0;">
+  <img src="components/divider.svg" alt="divider" style="width:60%; height:25px;" />
+</p>
 
 <p align="center">
   🌱 <strong>Currently Learning / Building:</strong> Exploring advanced concepts in distributed systems and real-time data processing to enhance the Algorithmic Engine.
