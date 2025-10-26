@@ -35,7 +35,8 @@
 </p>
 <br>
 
-<h2 align="center">Connect with Me 🤝</h2>
+<p align="center">Connect with Me 🤝</p>
+<br>
 <p align="center">
   
   <a href="https://github.com/sohamrajput98" target="_blank" rel="noreferrer">
