@@ -33,8 +33,11 @@
 <p align="center">
  I'm a dedicated Software Developer with a passion for creating elegant solutions to complex problems. My expertise spans full-stack development, cloud architecture, and scalable systems. I thrive in environments where I can continuously learn, innovate, and build impactful solutions.
 </p>
+<br>
 
+<h2 align="center">Connect with Me 🤝</h2>
 <p align="center">
+  
   <a href="https://github.com/sohamrajput98" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" style="filter: brightness(1.2);" />
   </a>&nbsp;
@@ -67,6 +70,14 @@
 </p>
 <br><br>
 
+
+<h3 align="center" style="color: #0372EE; font-family: 'Segoe UI', Arial, sans-serif; font-weight: 600;">🏆 GitHub Trophies 🏆</h3>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=sohamrajput98&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="sohamrajput98 trophies"/>
+</p>
+
+<br>
 
 
 <h2 align="center">My GitHub Vitals</h2>
