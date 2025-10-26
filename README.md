@@ -63,9 +63,9 @@
 <br>
 
 <p align="center" style="margin:8px 0;">
-  <img src="components/divider.svg" alt="divider" style="width:60%; height:25px;" />
+  <img src="components/divider.svg" alt="divider" style="width:60%; height:35px;" />
 </p>
-
+<br><br>
 
 
 
@@ -87,7 +87,7 @@
       style="display:inline-block; vertical-align:middle;"/>
   </span>
 </p>
-
+<br>
 <h2 align="center">My Contribution Dashboard</h2>
 
 
@@ -105,11 +105,9 @@
 </p>
 
 <br>
-<br>
 
-<p align="center" style="margin:8px 0;">
-  <img src="components/divider.svg" alt="divider" style="width:60%; height:25px;" />
-</p>
+
+
 
 <h2 align="center">My Contribution Snake</h2>
 <p align="center">
@@ -120,11 +118,9 @@
   />
 </p>
 
+
 <br>
-<br>
-<p align="center" style="margin:8px 0;">
-  <img src="components/divider.svg" alt="divider" style="width:60%; height:20px;" />
-</p>
+
 
 <h2 align="center">💻 My Tech Arsenal</h2>
 
@@ -175,9 +171,7 @@
 
 <br>
 
-<p align="center" style="margin:8px 0;">
-  <img src="components/divider.svg" alt="divider" style="width:60%; height:25px;" />
-</p>
+
 
 <h2 align="center">Featured Projects & Current Focus</h2>
 <table width="100%">
@@ -212,20 +206,20 @@
 
 <br>
 
-<p align="center" style="margin:8px 0;">
-  <img src="components/divider.svg" alt="divider" style="width:60%; height:25px;" />
-</p>
+
 
 <p align="center">
   🌱 <strong>Currently Learning / Building:</strong> Exploring advanced concepts in distributed systems and real-time data processing to enhance the Algorithmic Engine.
 </p>
+<br>
 
-<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent-separator.png" alt="divider"/></p>
 
-<blockquote align="center">
-  <i>"The best way to predict the future is to create it."</i>
-</blockquote>
+  <p align="center" style="font-size:40px; margin:0;">
+    <i>"The best way to predict the future is to create it."</i>
+  </p>
 
+
+<br>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&gradient=0288D1,4FC3F7,B3E5FC&height=120&section=footer&text=Made%20with%20❤️%20by%20Soham%20Rajput&fontColor=FFFFFF&fontSize=40" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&gradient=0288D1,4FC3F7,B3E5FC&height=100&section=footer&text=Made%20with%20❤️%20by%20Soham%20Rajput&fontColor=FFFFFF&fontSize=40" alt="Footer Banner"/>
 </p>
