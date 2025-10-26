@@ -60,9 +60,12 @@
 
 
 
+<br>
 
+<p align="center" style="margin:8px 0;">
+  <img src="components/divider.svg" alt="divider" style="width:60%; height:20px;" />
+</p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent-separator.png" alt="divider"/></p>
 
 
 
