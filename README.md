@@ -1,21 +1,28 @@
-<table align="center" width="100%" cellspacing="0" cellpadding="0" border="0" style="border:none;">
+<table align="center" width="100%" cellspacing="0" cellpadding="0" border="0">
   <tr>
-    <td align="center" width="65%" style="border:none; padding:0;">
+    <td align="center" width="65%">
       <img 
         src="https://raw.githubusercontent.com/sohamrajput98/sohamrajput98/main/assets/SohamRajput.gif" 
         alt="Soham Rajput Logo" 
-        width="100%"
+        width="550" 
+        height="auto"
       />
     </td>
-    <td align="center" width="35%" style="border:none; padding:0;">
+    <td align="center" width="35%">
       <img 
         src="https://raw.githubusercontent.com/sohamrajput98/sohamrajput98/main/assets/pulse.svg" 
         alt="Design Element" 
-        width="100%"
+        width="350" 
+        height="auto"
       />
     </td>
   </tr>
 </table>
+
+
+
+
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -24,22 +31,36 @@
 </div>
 
 <p align="center">
-  I'm a dedicated Software Developer with a passion for creating elegant solutions to complex problems. My expertise lies in back-end systems and cloud architecture, and I thrive in environments where I can continuously learn, innovate, and build amazing things.
+ I'm a dedicated Software Developer with a passion for creating elegant solutions to complex problems. My expertise spans full-stack development, cloud architecture, and scalable systems. I thrive in environments where I can continuously learn, innovate, and build impactful solutions.
 </p>
 
 <p align="center">
   <a href="https://github.com/sohamrajput98" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-0288D1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" style="filter: brightness(1.2);" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/sohamrajput98" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-4FC3F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="filter: brightness(1.2);" />
   </a>&nbsp;
   <a href="mailto:sohamrw098@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-B3E5FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="40" width="40" style="filter: brightness(1.2);" />
   </a>&nbsp;
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=sohamrajput98&label=Profile%20Views&color=4FC3F7&style=for-the-badge" alt="Profile views" />
+  <a href="https://www.leetcode.com/sohamrajput98" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" style="filter: brightness(1.2);" />
+  </a>
 </p>
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=sohamrajput98&label=Profile%20Views&color=4FC3F7&style=for-the-badge" 
+    alt="Profile Views" 
+    style="filter: brightness(1.2);" 
+  />
+</p>
+
+
+
+
+
+
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent-separator.png" alt="divider"/></p>
 
