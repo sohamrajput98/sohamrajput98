@@ -47,7 +47,7 @@
   <a href="mailto:sohamrw098@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="40" width="40" style="filter: brightness(1.2);" />
   </a>&nbsp;
-  <a href="https://www.leetcode.com/sohamrajput98" target="_blank" rel="noreferrer">
+  <a href="[https://www.leetcode.com/sohamrajput98](https://leetcode.com/u/Soham_Rajput/)" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" style="filter: brightness(1.2);" />
   </a>
 </p>
