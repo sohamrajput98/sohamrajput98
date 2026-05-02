@@ -1,38 +1,27 @@
-<table align="center" width="100%" cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td align="center" width="65%">
-      <img 
-        src="https://raw.githubusercontent.com/sohamrajput98/sohamrajput98/main/assets/SohamRajput.gif" 
-        alt="Soham Rajput Logo" 
-        width="550" 
-        height="auto"
-      />
-    </td>
-    <td align="center" width="35%">
-      <img 
-        src="https://raw.githubusercontent.com/sohamrajput98/sohamrajput98/main/assets/pulse.svg" 
-        alt="Design Element" 
-        width="350" 
-        height="auto"
-      />
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&color=0288D1&center=true&vCenter=true&width=550&lines=Software+Developer+from+Mumbai%2C+India;Building+elegant+solutions+for+the+web;Translating+logic+into+luxury..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=42&pause=1000&color=0288D1&center=true&vCenter=true&width=800&lines=Soham+Rajput;Backend+Engineer+%26+AI+Agent+Developer;Building+Production+Multi-Agent+Systems" alt="Typing SVG" />
   </a>
 </div>
 
+<br>
+
 <p align="center">
- I'm a dedicated Software Developer with a passion for creating elegant solutions to complex problems. My expertise spans full-stack development, cloud architecture, and scalable systems. I thrive in environments where I can continuously learn, innovate, and build impactful solutions.
+  <img 
+    src="https://komarev.com/ghpvc/?username=sohamrajput98&label=Profile%20Views&color=4FC3F7&style=for-the-badge" 
+    alt="Profile Views" 
+    style="filter: brightness(1.2);" 
+  />
 </p>
+
+<p align="center">
+Backend Engineer specializing in AI agent orchestration and scalable systems. Currently building production-grade multi-agent pipelines with FastAPI, pgvector RAG, and LLM routing strategies. Experience with serverless architectures, vector databases, and real-time processing.
+</p>
+
+<p align="center">
+  <strong>Current Role:</strong> Founding Engineer Intern @ Marko AI | CS Undergrad '27
+</p>
+
 <br>
 
 <p align="center">Connect with Me 🤝</p>
@@ -51,25 +40,29 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" style="filter: brightness(1.2);" />
   </a>
 </p>
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=sohamrajput98&label=Profile%20Views&color=4FC3F7&style=for-the-badge" 
-    alt="Profile Views" 
-    style="filter: brightness(1.2);" 
-  />
-</p>
-
-
-
-
 
 <br>
 
 <p align="center" style="margin:8px 0;">
   <img src="components/divider.svg" alt="divider" style="width:60%; height:35px;" />
 </p>
-<br><br>
 
+<br>
+
+<h2 align="center">💡 Core Stack & Technologies</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-4FC3F7?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-4FC3F7?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4FC3F7?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>&nbsp;
+  <img src="https://img.shields.io/badge/pgvector-9575CD?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector"/>&nbsp;
+  <img src="https://img.shields.io/badge/Docker-81D4FA?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&nbsp;
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda"/>&nbsp;
+  <img src="https://img.shields.io/badge/Groq-4FC3F7?style=for-the-badge&logo=ai&logoColor=white" alt="Groq"/>&nbsp;
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>&nbsp;
+</p>
+
+<br>
 
 <h3 align="center" style="color: #0372EE; font-family: 'Segoe UI', Arial, sans-serif; font-weight: 600;">🏆 GitHub Trophies 🏆</h3>
 
@@ -78,7 +71,6 @@
 </p>
 
 <br>
-
 
 <h2 align="center">My GitHub Vitals</h2>
 
@@ -98,14 +90,14 @@
       style="display:inline-block; vertical-align:middle;"/>
   </span>
 </p>
-<br>
-<h2 align="center">My Contribution Dashboard</h2>
 
+<br>
+
+<h2 align="center">My Contribution Dashboard</h2>
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=sohamrajput98&theme=radical&hide_border=true&ring=0288D1&fire=4FC3F7&currStreakNum=B3E5FC&sideNums=B3E5FC&currStreakLabel=B3E5FC&sideLabels=B3E5FC&dates=B3E5FC&background=0A1E2A" width="95%" alt="Soham Rajput's GitHub Streak" />
   </p>
-
 
 <p align="center">
   <img 
@@ -117,9 +109,6 @@
 
 <br>
 
-
-
-
 <h2 align="center">My Contribution Snake</h2>
 <p align="center">
   <img 
@@ -129,50 +118,48 @@
   />
 </p>
 
-
 <br>
-
 
 <h2 align="center">💻 My Tech Arsenal</h2>
 
 <table align="center" width="100%" style="table-layout:fixed; border-collapse:collapse;">
   <tr>
-    <!-- Frontend -->
+    <!-- Backend & AI -->
     <td align="center" valign="top" width="25%" style="padding:0;">
-      <h4>🎨 Frontend</h4>
+      <h4>⚙️ Backend & AI</h4>
       <a href="https://skillicons.dev">
         <img 
-          src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,materialui,vite,framer&perline=4&theme=dark" 
+          src="https://skillicons.dev/icons?i=python,java,cpp,c,fastapi,django,flask,nginx,bash,postman&perline=4&theme=dark" 
           width="100%" 
         />
       </a>
     </td>
-    <!-- Backend -->
+    <!-- Database & Vector Stores -->
     <td align="center" valign="top" width="25%" style="padding:0;">
-      <h4>⚙️ Backend</h4>
+      <h4>🗄️ Database & Vector Stores</h4>
       <a href="https://skillicons.dev">
         <img 
-          src="https://skillicons.dev/icons?i=python,java,cpp,c,fastapi,django,flask,nginx,bash,postman,jwt,oauth2&perline=4&theme=dark" 
+          src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb,redis,supabase&perline=4&theme=dark" 
           width="100%" 
         />
       </a>
     </td>
-    <!-- Database & DevOps -->
+    <!-- Cloud & DevOps -->
     <td align="center" valign="top" width="25%" style="padding:0;">
-      <h4>🗄️ Database & DevOps</h4>
+      <h4>☁️ Cloud & DevOps</h4>
       <a href="https://skillicons.dev">
         <img 
-          src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,docker,aws,gcp,git,github&perline=4&theme=dark" 
+          src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,firebase,vercel,netlify,githubactions&perline=4&theme=dark" 
           width="100%" 
         />
       </a>
     </td>
-    <!-- Tools & Platforms -->
+    <!-- Frontend & Tools -->
     <td align="center" valign="top" width="25%" style="padding:0;">
-      <h4>🧰 Tools & Platforms</h4>
+      <h4>🎨 Frontend & Tools</h4>
       <a href="https://skillicons.dev">
         <img 
-          src="https://skillicons.dev/icons?i=vscode,linux,firebase,vercel,netlify,npm,yarn,supabase,githubactions&perline=4&theme=dark" 
+          src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,vscode,linux,npm&perline=4&theme=dark" 
           width="100%" 
         />
       </a>
@@ -182,32 +169,34 @@
 
 <br>
 
+<h2 align="center">Featured Projects & Production Work</h2>
 
-
-<h2 align="center">Featured Projects & Current Focus</h2>
 <table width="100%">
   <tr>
     <td width="60%" valign="top">
-      <h2>Algorithmic Engine</h2>
+      <h2>🤖 Multi-Agent Lead Intelligence Pipeline</h2>
       <p align="justify">
-        An interactive platform helping students master DSA and core subjects through real-time problem-solving.
+        Production-grade three-agent system (Researcher, Contact Finder, Outreach Writer) with FastAPI backend. Implements dual-account Groq LLM routing for rate limit optimization, Tavily search API integration, and pgvector similarity search. Built with fallback handling and deployed on Render.
       </p> 
       <p>
         <img src="https://img.shields.io/badge/Python-4FC3F7?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
-<img src="https://img.shields.io/badge/FastAPI-4FC3F7?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>&nbsp;
-<img src="https://img.shields.io/badge/SQLAlchemy-9575CD?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>&nbsp;
-<img src="https://img.shields.io/badge/OAuth2-C084FC?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth2"/>&nbsp;
-<img src="https://img.shields.io/badge/React-81D4FA?style=for-the-badge&logo=react&logoColor=white" alt="React"/>&nbsp;
+        <img src="https://img.shields.io/badge/FastAPI-4FC3F7?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>&nbsp;
+        <img src="https://img.shields.io/badge/Groq-9575CD?style=for-the-badge&logo=ai&logoColor=white" alt="Groq"/>&nbsp;
+        <img src="https://img.shields.io/badge/pgvector-C084FC?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector"/>&nbsp;
+        <img src="https://img.shields.io/badge/Tavily-81D4FA?style=for-the-badge&logo=search&logoColor=white" alt="Tavily"/>&nbsp;
       </p>
-         <p align="center">
-        <a href="https://github.com/sohamrajput98/AlgorithmicEngine" target="_blank" rel="noreferrer">
+      <p align="center">
+        <a href="https://github.com/sohamrajput98/brokai-assessment" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/badge/View Source Code-0A1E2A?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+        </a>
+        <a href="https://brokai-assessment.onrender.com" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/Live Demo-4FC3F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
         </a>
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/sohamrajput98/sohamrajput98/main/assets/AlgoEngine.gif" 
-        alt="Algorithmic Engine Demo" 
+      <img src="https://raw.githubusercontent.com/sohamrajput98/sohamrajput98/main/assets/pulse.svg" 
+        alt="AI Agent Pipeline" 
         width="100%" 
         style="border-radius: 12px; box-shadow: 0 0 20px rgba(79,195,247,0.3);" 
       />
@@ -217,20 +206,53 @@
 
 <br>
 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏢 Marko AI - Campaign Backend Migration</h3>
+      <p align="justify">
+        Migrated FastAPI campaign retrospective system from SQLite + ChromaDB to Supabase PostgreSQL with pgvector. Implemented multi-tenant agent scoping, similarity search optimization, and Docker containerization for production deployment.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-4FC3F7?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>&nbsp;
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>&nbsp;
+        <img src="https://img.shields.io/badge/pgvector-9575CD?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector"/>&nbsp;
+        <img src="https://img.shields.io/badge/Docker-81D4FA?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&nbsp;
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 Trace-Ability - Serverless IDE Extension</h3>
+      <p align="justify">
+        AI-powered code analysis backend with FastAPI + AWS Lambda + DynamoDB serverless architecture. TypeScript client integration for real-time code insights and recommendations in VS Code.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-4FC3F7?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>&nbsp;
+        <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda"/>&nbsp;
+        <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>&nbsp;
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>&nbsp;
+      </p>
+    </td>
+  </tr>
+</table>
 
+<br>
 
 <p align="center">
-  🌱 <strong>Currently Learning / Building:</strong> Exploring advanced concepts in distributed systems and real-time data processing to enhance the Algorithmic Engine.
+  🔨 <strong>Currently Building:</strong> Production-grade multi-agent systems with LangGraph orchestration, vector databases (pgvector), and LLM routing strategies for rate-limit optimization and cost efficiency.
 </p>
-<br>
 
-
-  <p align="center" style="font-size:40px; margin:0;">
-    <i>"The best way to predict the future is to create it."</i>
-  </p>
-
+<p align="center">
+  📚 <strong>Recent Work:</strong> FastAPI + Groq + Tavily lead intelligence pipeline, Supabase PostgreSQL migration with multi-tenant agent scoping, serverless backends with AWS Lambda + DynamoDB
+</p>
 
 <br>
+
+<p align="center" style="font-size:40px; margin:0;">
+  <i>"The best way to predict the future is to create it."</i>
+</p>
+
+<br>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&gradient=0288D1,4FC3F7,B3E5FC&height=100&section=footer&text=Made%20with%20❤️%20by%20Soham%20Rajput&fontColor=FFFFFF&fontSize=40" alt="Footer Banner"/>
 </p>
