@@ -1,16 +1,20 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=42&pause=1000&color=0288D1&center=true&vCenter=true&width=800&lines=Soham+Rajput;Backend+Engineer+%26+AI+Agent+Developer;Building+Production+Multi-Agent+Systems" alt="Typing SVG" />
+  
+ <img src="https://github.com/user-attachments/assets/f08f9b8d-ca20-4b18-a679-1758058c3173" alt="Flowchart" width="600"/>
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=39&pause=1000&color=07ECFA&center=true&vCenter=true&width=800&lines=𝔹𝕒𝕔𝕜𝕖𝕟𝕕+𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣+%26+𝔸𝕀+𝔸𝕘𝕖𝕟𝕥+𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣;_𝔹𝕦𝕚𝕝𝕕𝕚𝕟𝕘+ℙ𝕣𝕠𝕕𝕦𝕔𝕥𝕚𝕠𝕟+𝕄𝕦𝕝𝕥𝕚-𝔸𝕘𝕖𝕟𝕥+𝕊𝕪𝕤𝕥𝕖𝕞𝕤" alt="Typing SVG" />
   </a>
+
 </div>
 
 <br>
 
 <p align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=sohamrajput98&label=Profile%20Views&color=4FC3F7&style=for-the-badge" 
+    src="https://komarev.com/ghpvc/?username=sohamrajput98&label=Profile%20Views&color=17C0FF&style=for-the-badge" 
     alt="Profile Views" 
-    style="filter: brightness(1.2);" 
+    style="filter: brightness(1.1);" 
   />
 </p>
 
@@ -26,19 +30,18 @@ Backend Engineer specializing in AI agent orchestration and scalable systems. Cu
 
 <p align="center">Connect with Me 🤝</p>
 <p align="center">
-  
-  <a href="https://github.com/sohamrajput98" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" style="filter: brightness(1.2);" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/sohamrajput98" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="filter: brightness(1.2);" />
-  </a>&nbsp;
-  <a href="mailto:sohamrw098@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="40" width="40" style="filter: brightness(1.2);" />
-  </a>&nbsp;
-  <a href="https://leetcode.com/u/Soham_Rajput/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" style="filter: brightness(1.2);" />
-  </a>
+  <a href="https://github.com/sohamrajput98">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sohamrajput98">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sohamrw098@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Soham_Rajput/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -64,7 +67,34 @@ Backend Engineer specializing in AI agent orchestration and scalable systems. Cu
 
 <br>
 
-<h3 align="center" style="color: #0372EE; font-family: 'Segoe UI', Arial, sans-serif; font-weight: 600;">🏆 GitHub Trophies 🏆</h3>
+<h2 align="center">🚀 Current Focus</h2>
+
+<table align="center" width="90%">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🔍 Seeking Opportunities</h3>
+      <p align="center">
+        Actively pursuing AI/Backend internship roles for Summer 2026
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🛠️ Building</h3>
+      <p align="center">
+        Multi-agent systems with LangGraph orchestration and pgvector RAG pipelines
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h3>📚 Learning</h3>
+      <p align="center">
+        Advanced agent routing patterns, LLM observability, distributed task queues
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h3 align="center" style="color: #11CFC4; font-family: 'Segoe UI', Arial, sans-serif; font-weight: 600;">🏆 GitHub Trophies 🏆</h3>
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=sohamrajput98&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="sohamrajput98 trophies"/>
@@ -116,6 +146,22 @@ Backend Engineer specializing in AI agent orchestration and scalable systems. Cu
     alt="Contribution Snake" 
     style="width: 105%; height: auto; max-width: 1400px;" 
   />
+</p>
+
+<br>
+
+<h2 align="center">📊 Impact & Metrics</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖_Multi--Agent_Pipeline-100+_Companies_Processed-4FC3F7?style=for-the-badge" alt="Multi-Agent Pipeline"/>&nbsp;
+  <img src="https://img.shields.io/badge/⚡_Response_Time-<2s_Per_Query-0288D1?style=for-the-badge" alt="Response Time"/>&nbsp;
+  <img src="https://img.shields.io/badge/📦_Database_Migration-50K+_Records-9575CD?style=for-the-badge" alt="Database Migration"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔄_Query_Performance-85%_Improvement-81D4FA?style=for-the-badge" alt="Query Performance"/>&nbsp;
+  <img src="https://img.shields.io/badge/💰_LLM_Cost_Optimization-40%_Token_Reduction-C084FC?style=for-the-badge" alt="Cost Optimization"/>&nbsp;
+  <img src="https://img.shields.io/badge/🐳_Deployment_Time-60%_Faster-B3E5FC?style=for-the-badge" alt="Deployment"/>
 </p>
 
 <br>
@@ -230,6 +276,57 @@ Backend Engineer specializing in AI agent orchestration and scalable systems. Cu
         <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda"/>&nbsp;
         <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>&nbsp;
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>&nbsp;
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">⏱️ Recent Activity</h2>
+
+<table align="center" width="85%">
+  <tr>
+    <td width="15%" align="center" valign="top">
+      <h3 style="color: #4FC3F7;">Apr 2026</h3>
+    </td>
+    <td width="85%" valign="top">
+      <p>
+        <strong>🤖 Multi-Agent Lead Intelligence Pipeline</strong><br>
+        Shipped production-grade 3-agent system (Researcher, Contact Finder, Outreach Writer) with FastAPI + Groq LLM routing + Tavily search. Built for Brokai Labs assessment with dual-account rate limit strategy.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <h3 style="color: #0288D1;">Mar 2026</h3>
+    </td>
+    <td valign="top">
+      <p>
+        <strong>🏢 Marko AI Backend Migration</strong><br>
+        Migrated campaign retrospective system from SQLite + ChromaDB to Supabase PostgreSQL with pgvector. Implemented multi-tenant agent scoping and Docker containerization.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <h3 style="color: #9575CD;">Feb 2026</h3>
+    </td>
+    <td valign="top">
+      <p>
+        <strong>🔍 Trace-Ability Serverless Backend</strong><br>
+        Built AI-powered code analysis backend using FastAPI + AWS Lambda + DynamoDB with TypeScript client integration for VS Code.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <h3 style="color: #81D4FA;">Jan 2026</h3>
+    </td>
+    <td valign="top">
+      <p>
+        <strong>🌟 Open Source Contribution</strong><br>
+        Merged PR to <a href="https://github.com/aboutcode-org/scancode.io" target="_blank">aboutcode-org/scancode.io</a> - Added missing docstring to request_post() function improving code documentation.
       </p>
     </td>
   </tr>
