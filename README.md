@@ -248,29 +248,40 @@ Experience with <strong>serverless architectures</strong>, <strong>vector databa
     <td width="60%" valign="top">
       <h2>🤖 Multi-Agent Lead Intelligence Pipeline</h2>
       <p align="justify">
-        Production-grade three-agent system (Researcher, Contact Finder, Outreach Writer) with FastAPI backend. Implements dual-account Groq LLM routing for rate limit optimization, Tavily search API integration, and pgvector similarity search. Built with fallback handling and deployed on Render.
-      </p> 
+        Built a three-agent pipeline (Researcher → Contact Finder → Outreach Writer) using FastAPI with async orchestration. 
+        Processes companies in parallel batches with controlled concurrency, reducing runtime from ~8 minutes to ~4 minutes.
+      </p>
+      <p align="justify">
+        Implements LLM routing via Groq to handle rate limits, integrates Tavily for data extraction, and uses structured outputs across agents. 
+        Includes retry logic with exponential backoff and fallback handling to ensure stable execution under failures.
+      </p>
       <p>
-        <img src="https://img.shields.io/badge/Python-4FC3F7?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
-        <img src="https://img.shields.io/badge/FastAPI-4FC3F7?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>&nbsp;
-        <img src="https://img.shields.io/badge/Groq-9575CD?style=for-the-badge&logo=ai&logoColor=white" alt="Groq"/>&nbsp;
-        <img src="https://img.shields.io/badge/pgvector-C084FC?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector"/>&nbsp;
-        <img src="https://img.shields.io/badge/Tavily-81D4FA?style=for-the-badge&logo=search&logoColor=white" alt="Tavily"/>&nbsp;
+        <img src="https://img.shields.io/badge/Python-4FC3F7?style=for-the-badge&logo=python&logoColor=white" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/FastAPI-4FC3F7?style=for-the-badge&logo=fastapi&logoColor=white" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Groq-9575CD?style=for-the-badge&logo=ai&logoColor=white" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/pgvector-C084FC?style=for-the-badge&logo=postgresql&logoColor=white" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Tavily-81D4FA?style=for-the-badge&logo=search&logoColor=white" />
       </p>
-      <p align="center">
-        <a href="https://github.com/sohamrajput98/brokai-assessment" target="_blank" rel="noreferrer">
-          <img src="https://img.shields.io/badge/View Source Code-0A1E2A?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-        </a>
-        <a href="https://brokai-assessment.onrender.com" target="_blank" rel="noreferrer">
-          <img src="https://img.shields.io/badge/Live Demo-4FC3F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-        </a>
-      </p>
+     <p align="center">
+  <a href="https://github.com/sohamrajput98/brokai-labs-lead-intelligence">
+    <img src="https://img.shields.io/badge/View Source Code-0A1E2A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://brokai-assessment.onrender.com/">
+    <img src="https://img.shields.io/badge/Live Demo-4FC3F7?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
     </td>
     <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/sohamrajput98/sohamrajput98/main/assets/pulse.svg" 
-        alt="AI Agent Pipeline" 
+      <img 
+        src="https://github.com/user-attachments/assets/f288d5a7-b243-4727-91cf-f982f06154c0" 
+        alt="Multi-Agent Architecture" 
         width="100%" 
-        style="border-radius: 12px; box-shadow: 0 0 20px rgba(79,195,247,0.3);" 
+        style="border-radius: 12px;" 
       />
     </td>
   </tr>
@@ -281,97 +292,122 @@ Experience with <strong>serverless architectures</strong>, <strong>vector databa
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏢 Marko AI - Campaign Backend Migration</h3>
+      <h3>🏢 Marko AI - Reflection & Learning Agent Backend</h3>
       <p align="justify">
-        Migrated FastAPI campaign retrospective system from SQLite + ChromaDB to Supabase PostgreSQL with pgvector. Implemented multi-tenant agent scoping, similarity search optimization, and Docker containerization for production deployment.
+        Built backend systems for reflection and learning agents using FastAPI with pgvector-based semantic memory. 
+        Migrated storage from SQLite + ChromaDB to Supabase PostgreSQL to support scalable vector retrieval and context persistence.
+      </p>
+      <p align="justify">
+        Implemented multi-tenant agent scoping with embedding-based isolation and stabilized 8+ API endpoints by resolving schema inconsistencies (UUID vs int). 
+        Containerized the backend with Docker and established a consistent local-to-cloud deployment workflow.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/FastAPI-4FC3F7?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>&nbsp;
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>&nbsp;
-        <img src="https://img.shields.io/badge/pgvector-9575CD?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector"/>&nbsp;
-        <img src="https://img.shields.io/badge/Docker-81D4FA?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&nbsp;
+        <img src="https://img.shields.io/badge/FastAPI-4FC3F7?style=for-the-badge&logo=fastapi&logoColor=white"/>&nbsp;
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>&nbsp;
+        <img src="https://img.shields.io/badge/pgvector-9575CD?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
+        <img src="https://img.shields.io/badge/Docker-81D4FA?style=for-the-badge&logo=docker&logoColor=white"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔍 Trace-Ability - Serverless IDE Extension</h3>
+      <h3>🔍 Trace-Ability - Serverless Code Analysis</h3>
       <p align="justify">
-        AI-powered code analysis backend with FastAPI + AWS Lambda + DynamoDB serverless architecture. TypeScript client integration for real-time code insights and recommendations in VS Code.
+        Built a serverless pipeline using AWS Lambda to analyze commit diffs and infer developer intent across multi-file changes. 
+        Processes 40+ file diffs per run and stores telemetry in DynamoDB with secure IAM-based access.
+      </p>
+      <p align="justify">
+        Optimized inference latency to &lt;3.5s and reduced cost to ~$0.01 per run by migrating to Amazon Nova Lite. 
+        Integrated CI/CD checks via GitHub Actions to flag misleading commits using a trust score system.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/FastAPI-4FC3F7?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>&nbsp;
-        <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda"/>&nbsp;
-        <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>&nbsp;
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>&nbsp;
+        <img src="https://img.shields.io/badge/FastAPI-4FC3F7?style=for-the-badge&logo=fastapi&logoColor=white"/>&nbsp;
+        <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>&nbsp;
+        <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>&nbsp;
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
       </p>
     </td>
   </tr>
 </table>
-
 <br>
 
 <h2 align="center">⏱️ Recent Activity</h2>
 
 <table align="center" width="85%">
+
   <tr>
     <td width="15%" align="center" valign="top">
-      <h3 style="color: #4FC3F7;">Apr 2026</h3>
+      <h3 style="color: #4FC3F7;">Apr 2026 – Present</h3>
     </td>
     <td width="85%" valign="top">
       <p>
-        <strong>🤖 Multi-Agent Lead Intelligence Pipeline</strong><br>
-        Shipped production-grade 3-agent system (Researcher, Contact Finder, Outreach Writer) with FastAPI + Groq LLM routing + Tavily search. Built for Brokai Labs assessment with dual-account rate limit strategy.
+        <strong>🏢 Marko AI – Founding Engineer Intern</strong><br>
+        Building reflection and learning agents with pgvector-based semantic memory. 
+        Stabilized core pipelines (8+ APIs), implemented async orchestration, and improved reliability with validation, fallback logic, and feedback tracking.
       </p>
     </td>
   </tr>
+
+  <tr>
+    <td align="center" valign="top">
+      <h3 style="color: #0288D1;">Apr 2026</h3>
+    </td>
+    <td valign="top">
+      <p>
+        <strong>🤖 Multi-Agent Lead Intelligence Pipeline</strong><br>
+        Built and deployed a 3-agent FastAPI pipeline with async batching (3 companies per batch), reducing runtime from ~8 min to ~4 min. 
+        Implemented Groq-based LLM routing, Tavily integration, and retry-based fault tolerance.
+      </p>
+    </td>
+  </tr>
+
   <tr>
     <td align="center" valign="top">
       <h3 style="color: #0288D1;">Mar 2026</h3>
     </td>
     <td valign="top">
       <p>
-        <strong>🏢 Marko AI Backend Migration</strong><br>
-        Migrated campaign retrospective system from SQLite + ChromaDB to Supabase PostgreSQL with pgvector. Implemented multi-tenant agent scoping and Docker containerization.
+        <strong>🔍 Trace-Ability + 🌟 Open Source</strong><br>
+        Built AWS Lambda pipeline to analyze commit diffs across 40+ files per run with &lt;3.5s latency and ~$0.01 cost. 
+        Contributed to <a href="https://github.com/aboutcode-org/scancode.io" target="_blank">scancode.io</a> and submitted GSSoC proposals.
       </p>
     </td>
   </tr>
+
   <tr>
     <td align="center" valign="top">
-      <h3 style="color: #9575CD;">Feb 2026</h3>
+      <h3 style="color: #9575CD;">Jan 2026 – Feb 2026</h3>
     </td>
     <td valign="top">
       <p>
-        <strong>🔍 Trace-Ability Serverless Backend</strong><br>
-        Built AI-powered code analysis backend using FastAPI + AWS Lambda + DynamoDB with TypeScript client integration for VS Code.
+        <strong>🛡️ EduShield AI</strong><br>
+        Built a full-stack FastAPI + React system for phishing email analysis with asynchronous backend processing. 
+        Implemented TF-IDF + Scikit-learn detection with rule-based heuristics and ensured local-first inference with SHA-256 hashing.
       </p>
     </td>
   </tr>
+
   <tr>
     <td align="center" valign="top">
-      <h3 style="color: #81D4FA;">Jan 2026</h3>
+      <h3 style="color: #B3E5FC;">Sep 2025 – Nov 2025</h3>
     </td>
     <td valign="top">
       <p>
-        <strong>🌟 Open Source Contribution</strong><br>
-        Merged PR to <a href="https://github.com/aboutcode-org/scancode.io" target="_blank">aboutcode-org/scancode.io</a> - Added missing docstring to request_post() function improving code documentation.
+        <strong>⚙️ Algorithmic Assessment Engine</strong><br>
+        Built FastAPI backend for evaluating code submissions with deterministic scoring, JWT-based authentication, and MySQL schema design.
       </p>
     </td>
   </tr>
+
 </table>
 
-<br>
+
+<h2 align="center">🎯 Closing Note</h2>
 
 <p align="center">
-  🔨 <strong>Currently Building:</strong> Production-grade multi-agent systems with LangGraph orchestration, vector databases (pgvector), and LLM routing strategies for rate-limit optimization and cost efficiency.
+  <strong>Focus:</strong> Building reliable backend systems for AI agents — orchestration, vector memory, and structured LLM pipelines
 </p>
 
 <p align="center">
-  📚 <strong>Recent Work:</strong> FastAPI + Groq + Tavily lead intelligence pipeline, Supabase PostgreSQL migration with multi-tenant agent scoping, serverless backends with AWS Lambda + DynamoDB
-</p>
-
-<br>
-
-<p align="center" style="font-size:40px; margin:0;">
-  <i>"The best way to predict the future is to create it."</i>
+  <strong>Approach:</strong> Prioritize determinism, fault tolerance, and performance over hype-driven implementations
 </p>
 
 <br>
