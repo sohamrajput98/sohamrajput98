@@ -1,3 +1,7 @@
+<h2>
+  𝙷𝚒 𝚝𝚑𝚎𝚛𝚎 👋, 𝙸’𝚖
+</h2>
+
 <div align="center">
   
  <img src="https://github.com/user-attachments/assets/f08f9b8d-ca20-4b18-a679-1758058c3173" alt="Flowchart" width="600"/>
@@ -19,11 +23,13 @@
 </p>
 
 <p align="center">
-Backend Engineer specializing in AI agent orchestration and scalable systems. Currently building production-grade multi-agent pipelines with FastAPI, pgvector RAG, and LLM routing strategies. Experience with serverless architectures, vector databases, and real-time processing.
+<strong>Backend Engineer</strong> specializing in <strong>AI agent orchestration</strong> and <strong>scalable systems</strong>.  
+Currently building <strong>production-grade multi-agent pipelines</strong> with <strong>FastAPI</strong>, <strong>pgvector RAG</strong>, and <strong>LLM routing strategies</strong>.  
+Experience with <strong>serverless architectures</strong>, <strong>vector databases</strong>, and <strong>real-time processing</strong>.
 </p>
 
 <p align="center">
-  <strong>Current Role:</strong> Founding Engineer Intern @ Marko AI | CS Undergrad '27
+  <strong>𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝚁𝚘𝚕𝚎 :</strong> 𝙵𝚘𝚞𝚗𝚍𝚒𝚗𝚐 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝙸𝚗𝚝𝚎𝚛𝚗 @ 𝐌𝐚𝐫𝐤𝐨 𝐀𝐈 | 𝙲𝚂 𝚄𝚗𝚍𝚎𝚛𝚐𝚛𝚊𝚍 '𝟸𝟽
 </p>
 
 <br>
@@ -71,23 +77,27 @@ Backend Engineer specializing in AI agent orchestration and scalable systems. Cu
 
 <table align="center" width="90%">
   <tr>
-    <td align="center" width="33%">
-      <h3>🔍 Seeking Opportunities</h3>
-      <p align="center">
-        Actively pursuing AI/Backend internship roles for Summer 2026
-      </p>
-    </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <h3>🛠️ Building</h3>
-      <p align="center">
-        Multi-agent systems with LangGraph orchestration and pgvector RAG pipelines
-      </p>
+      <p>Production-grade multi-agent systems with LangGraph, FastAPI, and pgvector RAG</p>
+      <br>
     </td>
-    <td align="center" width="33%">
-      <h3>📚 Learning</h3>
-      <p align="center">
-        Advanced agent routing patterns, LLM observability, distributed task queues
-      </p>
+    <td align="center" width="50%">
+      <h3>⚙️ Working On</h3>
+      <p>LLM routing, rate-limit optimization, real-time agent orchestration</p>
+      <br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>📚 Exploring</h3>
+      <p>LLM observability and distributed task queues</p>
+      <br>
+    </td>
+    <td align="center">
+      <h3>🎯 Open To</h3>
+      <p>Full-time AI/Backend roles (not internships)</p>
+      <br>
     </td>
   </tr>
 </table>
@@ -107,14 +117,14 @@ Backend Engineer specializing in AI agent orchestration and scalable systems. Cu
 <p align="center">
   <span>
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=sohamrajput98&show_icons=true&count_private=true&hide_border=true&title_color=0288D1&icon_color=4FC3F7&text_color=B3E5FC&bg_color=0A1E2A&line_height=28" 
+      src="https://github-readme-stats-nine-iota-66.vercel.app/api?username=sohamrajput98&show_icons=true&count_private=true&hide_border=true&title_color=0288D1&icon_color=4FC3F7&text_color=B3E5FC&bg_color=0A1E2A&line_height=28" 
       alt="GitHub Stats" 
       width="410"
       style="display:inline-block; vertical-align:middle;"/>
   </span>
   <span>
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamrajput98&layout=compact&langs_count=6&hide_border=true&title_color=0288D1&text_color=B3E5FC&bg_color=0A1E2A&card_width=350" 
+      src="https://github-readme-stats-nine-iota-66.vercel.app/api/top-langs/?username=sohamrajput98&layout=compact&langs_count=6&hide_border=true&title_color=0288D1&text_color=B3E5FC&bg_color=0A1E2A&card_width=350" 
       alt="Top Languages" 
       width="410"
       style="display:inline-block; vertical-align:middle;"/>
@@ -152,16 +162,32 @@ Backend Engineer specializing in AI agent orchestration and scalable systems. Cu
 
 <h2 align="center">📊 Impact & Metrics</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🤖_Multi--Agent_Pipeline-100+_Companies_Processed-4FC3F7?style=for-the-badge" alt="Multi-Agent Pipeline"/>&nbsp;
-  <img src="https://img.shields.io/badge/⚡_Response_Time-<2s_Per_Query-0288D1?style=for-the-badge" alt="Response Time"/>&nbsp;
-  <img src="https://img.shields.io/badge/📦_Database_Migration-50K+_Records-9575CD?style=for-the-badge" alt="Database Migration"/>
-</p>
+<br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔄_Query_Performance-85%_Improvement-81D4FA?style=for-the-badge" alt="Query Performance"/>&nbsp;
-  <img src="https://img.shields.io/badge/💰_LLM_Cost_Optimization-40%_Token_Reduction-C084FC?style=for-the-badge" alt="Cost Optimization"/>&nbsp;
-  <img src="https://img.shields.io/badge/🐳_Deployment_Time-60%_Faster-B3E5FC?style=for-the-badge" alt="Deployment"/>
+  <img src="https://img.shields.io/badge/Multi--Agent_Pipeline-21_Companies_Processed-4FC3F7?style=for-the-badge" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Database_Migration-50K%2B_Records_PostgreSQL-9575CD?style=for-the-badge" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Runtime_Optimization-~50%25_Faster_(7–9m→3–5m)-0288D1?style=for-the-badge" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Inference_Latency-<3.5s_Per_Run-81D4FA?style=for-the-badge" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LLM_Cost-~$0.01_Per_Run-C084FC?style=for-the-badge" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/System_Stability-8%2B_APIs_Stabilized-B3E5FC?style=for-the-badge" />
 </p>
 
 <br>
