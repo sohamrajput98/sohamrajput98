@@ -413,5 +413,5 @@ Experience with <strong>serverless architectures</strong>, <strong>vector databa
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&gradient=0288D1,4FC3F7,B3E5FC&height=100&section=footer&text=Made%20with%20❤️%20by%20Soham%20Rajput&fontColor=FFFFFF&fontSize=40" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0288D1,100:4FC3F7&height=160&section=footer&text=AI%20Agent%20Systems%20%7C%20Backend%20Engineering&fontColor=FFFFFF&fontSize=28&animation=fadeIn"/>
 </p>
